@@ -9,7 +9,7 @@ Para usar a aplicação, siga estas etapas simples:
 1. Clone este repositório para o seu ambiente local:
 
    ```
-   git clone https://github.com/seu-nome/seu-repositorio-chess.git
+   git clone https://github.com/joaoadsistemas/chess-system-java
 
 2. Navegue até a pasta do projeto:
    ```
